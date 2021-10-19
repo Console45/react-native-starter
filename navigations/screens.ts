@@ -3,3 +3,6 @@ export enum Screens {
   HOME = "Home",
   CART = "Cart",
 }
+export type NativeStackParamList = {
+  Home: undefined;
+};
